@@ -1,0 +1,3 @@
+class grater(){
+	public static
+}

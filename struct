@@ -1,0 +1,16 @@
+#include<stdio.h>
+struct employee
+{
+	int empId;
+	char empName[20];
+	int empSal;
+	char empDep[10];
+}dollop[100];
+int index=0;
+void main()
+{
+	int option;
+	char 5;
+	printf("\n\npress any to continue");
+	scanf
+}
